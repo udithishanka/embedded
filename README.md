@@ -16,4 +16,4 @@ To work on these projects, you'll need to install the following:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/udithishanka/embedded.git
+   git clone https://github.com/udithishanka/embedded_projects.git
